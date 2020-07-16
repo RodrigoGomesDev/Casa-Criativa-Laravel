@@ -20,7 +20,7 @@
         <p>em exibição</p>
         <h1>Ideias</h1>
     </div>
-    <div class="ideas d-flex flex-column align-items-center" >
+    <div class="ideas" >
         @include('all_ideias')
     </div>
 </main>
